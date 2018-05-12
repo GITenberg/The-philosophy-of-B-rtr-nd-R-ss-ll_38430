@@ -1,0 +1,27 @@
+_repo: The-philosophy-of-B-rtr-nd-R-ss-ll_38430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Jourdain, Philip E. B. (Philip Edward Bertrand)
+    birthdate: 1879
+    deathdate: 1919
+    gutenberg_agent_id: '3726'
+    url: http://www.gutenberg.org/2009/agents/3726
+description: ''
+gutenberg_issued: '2011-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38430'
+  lccn: '20002842'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Russell, Bertrand, 1872-1970'
+title: The philosophy of Mr. B*rtr*nd R*ss*ll
+url: http://www.gutenberg.org/ebooks/38430
