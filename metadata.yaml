@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '3726'
     url: http://www.gutenberg.org/2009/agents/3726
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38430#The-philosophy-of-B-rtr-nd-R-ss-ll
 gutenberg_issued: '2011-12-28'
 gutenberg_type: Text
 identifiers:
